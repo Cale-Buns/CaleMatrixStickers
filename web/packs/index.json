@@ -1,0 +1,11 @@
+{
+  "packs": [
+    "Sky57571NaL.json",
+    "BunnyNamedSunny.json",
+    "AtlasTheBun.json",
+    "bunnerbun.json",
+    "VooDesu.json",
+    "CaleBuns.json"
+  ],
+  "homeserver_url": "https://matrix.cyberfurz.chat:8448"
+}
